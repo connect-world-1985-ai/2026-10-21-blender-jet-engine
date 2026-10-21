@@ -1,0 +1,9 @@
+Studio Small 09
+Author: Sergej Majboroda
+Source: Poly Haven — https://polyhaven.com/a/studio_small_09
+Download: https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/studio_small_09_2k.hdr
+License: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Resolution used: 2k HDR
+
+No changes were made to the HDR image itself. It is used as the world
+environment for Cycles renders of the procedural turbofan.
