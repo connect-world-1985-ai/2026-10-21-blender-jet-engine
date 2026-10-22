@@ -1,0 +1,359 @@
+{
+  "full": {
+    "objects": 3149,
+    "mesh_polygons": 422138
+  },
+  "cut": {
+    "objects": 2328,
+    "mesh_polygons": 308812
+  },
+  "common": {
+    "objects": 6,
+    "mesh_polygons": 494
+  },
+  "studio": {
+    "objects": 19,
+    "mesh_polygons": 4
+  },
+  "glow_full": {
+    "objects": 2,
+    "mesh_polygons": 352
+  },
+  "glow_cut": {
+    "objects": 2,
+    "mesh_polygons": 264
+  },
+  "scene_objects_full": 3182,
+  "scene_objects_cut": 2361,
+  "rows": [
+    {
+      "name": "Fan",
+      "count": 22,
+      "x": 0.1,
+      "r_root": 0.434,
+      "r_tip": 1.35,
+      "full": 22,
+      "cut": 14
+    },
+    {
+      "name": "OGV",
+      "count": 34,
+      "x": 0.84,
+      "r_root": 0.78,
+      "r_tip": 1.325,
+      "full": 34,
+      "cut": 24
+    },
+    {
+      "name": "LPC_R0",
+      "count": 68,
+      "x": 0.793,
+      "r_root": 0.453,
+      "r_tip": 0.599,
+      "full": 68,
+      "cut": 49
+    },
+    {
+      "name": "LPC_S0",
+      "count": 84,
+      "x": 0.87,
+      "r_root": 0.456,
+      "r_tip": 0.603,
+      "full": 84,
+      "cut": 61
+    },
+    {
+      "name": "LPC_R1",
+      "count": 76,
+      "x": 1.008,
+      "r_root": 0.467,
+      "r_tip": 0.609,
+      "full": 76,
+      "cut": 55
+    },
+    {
+      "name": "LPC_S1",
+      "count": 92,
+      "x": 1.086,
+      "r_root": 0.472,
+      "r_tip": 0.614,
+      "full": 92,
+      "cut": 67
+    },
+    {
+      "name": "LPC_R2",
+      "count": 86,
+      "x": 1.223,
+      "r_root": 0.483,
+      "r_tip": 0.621,
+      "full": 86,
+      "cut": 62
+    },
+    {
+      "name": "LPC_S2",
+      "count": 104,
+      "x": 1.3,
+      "r_root": 0.488,
+      "r_tip": 0.626,
+      "full": 104,
+      "cut": 77
+    },
+    {
+      "name": "LPC_R3",
+      "count": 96,
+      "x": 1.438,
+      "r_root": 0.498,
+      "r_tip": 0.632,
+      "full": 96,
+      "cut": 71
+    },
+    {
+      "name": "LPC_S3",
+      "count": 118,
+      "x": 1.516,
+      "r_root": 0.5,
+      "r_tip": 0.635,
+      "full": 118,
+      "cut": 86
+    },
+    {
+      "name": "HPC_R0",
+      "count": 70,
+      "x": 2.513,
+      "r_root": 0.373,
+      "r_tip": 0.483,
+      "full": 70,
+      "cut": 50
+    },
+    {
+      "name": "HPC_S0",
+      "count": 84,
+      "x": 2.548,
+      "r_root": 0.371,
+      "r_tip": 0.482,
+      "full": 84,
+      "cut": 61
+    },
+    {
+      "name": "HPC_R1",
+      "count": 72,
+      "x": 2.611,
+      "r_root": 0.37,
+      "r_tip": 0.477,
+      "full": 72,
+      "cut": 53
+    },
+    {
+      "name": "HPC_S1",
+      "count": 86,
+      "x": 2.646,
+      "r_root": 0.367,
+      "r_tip": 0.475,
+      "full": 86,
+      "cut": 62
+    },
+    {
+      "name": "HPC_R2",
+      "count": 74,
+      "x": 2.709,
+      "r_root": 0.366,
+      "r_tip": 0.467,
+      "full": 74,
+      "cut": 54
+    },
+    {
+      "name": "HPC_S2",
+      "count": 88,
+      "x": 2.744,
+      "r_root": 0.363,
+      "r_tip": 0.465,
+      "full": 88,
+      "cut": 65
+    },
+    {
+      "name": "HPC_R3",
+      "count": 76,
+      "x": 2.807,
+      "r_root": 0.361,
+      "r_tip": 0.456,
+      "full": 76,
+      "cut": 55
+    },
+    {
+      "name": "HPC_S3",
+      "count": 92,
+      "x": 2.842,
+      "r_root": 0.358,
+      "r_tip": 0.453,
+      "full": 92,
+      "cut": 67
+    },
+    {
+      "name": "HPC_R4",
+      "count": 78,
+      "x": 2.904,
+      "r_root": 0.355,
+      "r_tip": 0.444,
+      "full": 78,
+      "cut": 56
+    },
+    {
+      "name": "HPC_S4",
+      "count": 94,
+      "x": 2.94,
+      "r_root": 0.352,
+      "r_tip": 0.441,
+      "full": 94,
+      "cut": 68
+    },
+    {
+      "name": "HPC_R5",
+      "count": 82,
+      "x": 3.002,
+      "r_root": 0.35,
+      "r_tip": 0.432,
+      "full": 82,
+      "cut": 60
+    },
+    {
+      "name": "HPC_S5",
+      "count": 98,
+      "x": 3.037,
+      "r_root": 0.347,
+      "r_tip": 0.429,
+      "full": 98,
+      "cut": 72
+    },
+    {
+      "name": "HPC_R6",
+      "count": 84,
+      "x": 3.1,
+      "r_root": 0.345,
+      "r_tip": 0.421,
+      "full": 84,
+      "cut": 61
+    },
+    {
+      "name": "HPC_S6",
+      "count": 100,
+      "x": 3.135,
+      "r_root": 0.342,
+      "r_tip": 0.418,
+      "full": 100,
+      "cut": 73
+    },
+    {
+      "name": "HPC_R7",
+      "count": 88,
+      "x": 3.198,
+      "r_root": 0.341,
+      "r_tip": 0.411,
+      "full": 88,
+      "cut": 65
+    },
+    {
+      "name": "HPC_S7",
+      "count": 106,
+      "x": 3.233,
+      "r_root": 0.338,
+      "r_tip": 0.41,
+      "full": 106,
+      "cut": 78
+    },
+    {
+      "name": "HPC_R8",
+      "count": 92,
+      "x": 3.295,
+      "r_root": 0.338,
+      "r_tip": 0.404,
+      "full": 92,
+      "cut": 67
+    },
+    {
+      "name": "HPC_S8",
+      "count": 112,
+      "x": 3.331,
+      "r_root": 0.336,
+      "r_tip": 0.404,
+      "full": 112,
+      "cut": 83
+    },
+    {
+      "name": "HPT_NGV",
+      "count": 60,
+      "x": 4.707,
+      "r_root": 0.374,
+      "r_tip": 0.525,
+      "full": 60,
+      "cut": 43
+    },
+    {
+      "name": "HPT_R0",
+      "count": 70,
+      "x": 4.821,
+      "r_root": 0.37,
+      "r_tip": 0.537,
+      "full": 70,
+      "cut": 50
+    },
+    {
+      "name": "HPT_R1",
+      "count": 74,
+      "x": 5.081,
+      "r_root": 0.356,
+      "r_tip": 0.604,
+      "full": 74,
+      "cut": 54
+    },
+    {
+      "name": "LPT_NGV",
+      "count": 54,
+      "x": 5.513,
+      "r_root": 0.339,
+      "r_tip": 0.714,
+      "full": 54,
+      "cut": 38
+    },
+    {
+      "name": "LPT_R0",
+      "count": 62,
+      "x": 5.595,
+      "r_root": 0.337,
+      "r_tip": 0.72,
+      "full": 62,
+      "cut": 44
+    },
+    {
+      "name": "LPT_R1",
+      "count": 66,
+      "x": 5.78,
+      "r_root": 0.328,
+      "r_tip": 0.78,
+      "full": 66,
+      "cut": 48
+    },
+    {
+      "name": "LPT_R2",
+      "count": 70,
+      "x": 5.965,
+      "r_root": 0.316,
+      "r_tip": 0.864,
+      "full": 70,
+      "cut": 50
+    },
+    {
+      "name": "LPT_R3",
+      "count": 74,
+      "x": 6.15,
+      "r_root": 0.306,
+      "r_tip": 0.932,
+      "full": 74,
+      "cut": 52
+    }
+  ],
+  "mesh_datablocks": 331,
+  "materials": 22,
+  "scatter_curves_in_full_scene": 100,
+  "scatter_realized_polygons_full": 270328,
+  "build_seconds": 5.38
+}
