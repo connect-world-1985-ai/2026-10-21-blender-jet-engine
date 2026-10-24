@@ -277,8 +277,9 @@ def _paint():
     nt.links.new(n2.outputs["Fac"], rough.inputs["Value"])
     nt.links.new(rough.outputs["Result"], bsdf.inputs["Roughness"])
     _set(bsdf, "Metallic", 0.0)
-    _set(bsdf, "Coat Weight", 0.12)
-    _set(bsdf, "Coat Roughness", 0.18)
+    # A smoother clear coat gives the nacelle paint a glossier finish.
+    _set(bsdf, "Coat Weight", 0.28)
+    _set(bsdf, "Coat Roughness", 0.14)
     _set(bsdf, "Specular IOR Level", 0.5)
     bump = nt.nodes.new("ShaderNodeBump")
     bump.location = (-180, -260)
